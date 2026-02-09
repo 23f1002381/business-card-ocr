@@ -1,4 +1,4 @@
-""
+"""
 Business Card OCR Application
 
 A Streamlit-based web interface for extracting and managing business card information.
